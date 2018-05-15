@@ -32,11 +32,10 @@ namespace DCS_Dynamic_Kneeboard
                 Image checkbox = new Image
                 {
                     HorizontalOptions = LayoutOptions.Start,
-                    WidthRequest = 25
+                    WidthRequest = 50,
+                    HeightRequest = 50
                 };
-                checkbox.WidthRequest = 25;
-                checkbox.HeightRequest = 25;
-                checkbox.SetBinding(Image.SourceProperty, new Binding("checkbox_empty.png"));
+                checkbox.Source = "checkbox_empty.png";
 
                 Label textout = new Label
                 {
