@@ -24,13 +24,15 @@
 
         <StackLayout Orientation="Vertical" Spacing="20" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3" >
 
-            <!--Label Text="Hello!" HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center"
-                BackgroundColor="Red" TextColor="White" /-->
-
-            <ListView HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" x:Name="ListViewX" />
+            <ListView HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" x:Name="ListViewX" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <local:KneeboardCell />
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
 
         </StackLayout>
-
     </Grid>
 
 </ContentPage>

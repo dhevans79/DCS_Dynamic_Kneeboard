@@ -25,8 +25,7 @@ namespace DCS_Dynamic_Kneeboard
             };
 
             ListViewX.ItemsSource = myListItem;
-            ListViewX.ItemTemplate = new DataTemplate(typeof(TextCell));
-            ListViewX.ItemTemplate.SetBinding(TextCell.TextProperty, "Name");
+            ListViewX.ItemTemplate = new DataTemplate(typeof(KneeboardCell));
         }
 	}
 }
