@@ -11,7 +11,7 @@ namespace DCS_Dynamic_Kneeboard
 		{
 			InitializeComponent();
 
-			MainPage = new MainPage();
+			MainPage = new NavigationPage(new MainMenu());
 		}
 
 		protected override void OnStart ()
