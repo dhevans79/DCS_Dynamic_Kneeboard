@@ -13,6 +13,7 @@
         <Grid.RowDefinitions>
             <RowDefinition Height="25" />
             <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
         </Grid.RowDefinitions>
         <Image Source="left_arrow.png" HeightRequest="50" WidthRequest="50" 
                Grid.Column="0" Grid.Row="0" />
@@ -33,6 +34,8 @@
             </ListView>
 
         </StackLayout>
+
+        <local:AdMobView AdUnitId="{Binding AdUnitId}" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3"/>
     </Grid>
 
 </ContentPage>

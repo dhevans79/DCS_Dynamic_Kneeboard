@@ -16,5 +16,11 @@ namespace DCS_Dynamic_Kneeboard
 		{
 			InitializeComponent ();
 		}
-	}
+
+        void OnAddKneeboards(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new AddNewKneeboard());
+
+        }
+    }
 }

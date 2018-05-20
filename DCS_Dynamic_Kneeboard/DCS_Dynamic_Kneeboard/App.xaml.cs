@@ -9,6 +9,7 @@ namespace DCS_Dynamic_Kneeboard
 	{
 		public App ()
 		{
+            // LOAD FORM - Initialise Xaml
 			InitializeComponent();
 
 			MainPage = new NavigationPage(new MainMenu());
