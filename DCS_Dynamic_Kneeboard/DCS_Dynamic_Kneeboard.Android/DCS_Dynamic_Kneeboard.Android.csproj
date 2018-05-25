@@ -69,6 +69,7 @@
     <Compile Include="KneeboardCellAndroid.cs" />
     <Compile Include="KneeboardCellAndroidRenderer.cs" />
     <Compile Include="MainActivity.cs" />
+    <Compile Include="MainMenu2.cs" />
     <Compile Include="ManageKneeboardViewCellAndroid.cs" />
     <Compile Include="ManageKneeboardViewCellAndroidRenderer.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
@@ -148,7 +149,20 @@
     <AndroidResource Include="Resources\drawable\KneepadIcon.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\layout\toolbar_new.xml" />
+    <AndroidResource Include="Resources\layout\MainMenu2.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\ToolbarMenu.xml">
+      <Generator>MSBuild:UpdateGeneratedFiles</Generator>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\SyncOff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\SyncOffGrey.png" />
   </ItemGroup>
   <Import Project="..\DCS_Dynamic_Kneeboard\DCS_Dynamic_Kneeboard.projitems" Label="Shared" />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />

@@ -1,0 +1,184 @@
+<html>
+
+	<head>
+		<title>LOGICIEL</title>
+		<style type="text/css">
+			body{
+				margin:0px;
+			}
+			
+			#title_logo{
+				position:absolute;
+				background-color:white;
+				width: 80vw;
+				left: 10vw;
+			}
+			
+			#parallax_ground{
+			position: fixed;
+			background:url(GenevaSkyView.jpg) no-repeat 0px 0px;
+			top: 150px;
+			left: 10vw;
+			width:80vw;
+			height:140vh;
+			z-index: -10;
+			}
+		
+			
+			#parallax_layer1{
+			position:fixed;
+			background:url(Geneva_SkyView_Clouds1.png) no-repeat 0px 0px;
+			height:140%;
+			top:150px;
+			left: 10vw;
+			width:80vw;
+			}
+			
+			#content_layer2{
+				position: absolute;
+				top: 3000px;
+			}
+			
+			#content_mobile{
+				position: absolute;
+				top: 200px;
+				left: 40vw;
+				width:40vw;
+				z-index: 2;
+
+			}
+			
+			#content_unique{
+				position: absolute;
+				top: 400px;
+				width:40vw;
+				z-index: 3;
+
+			}
+			
+			#content_reality{
+				position: absolute;
+				top: 600px;
+				left: 40vw;
+				width:40vw;
+				z-index: 4;
+
+			}
+			
+			#content_clients{
+				position: absolute;
+				top: 800px;
+				width:40vw;
+				z-index: 5;
+
+			}
+			
+			#menu_placer{
+				position: absolute;
+				top:100px;
+			}
+			
+			#sticky {
+				position: -webkit-sticky; /* Safari */
+				position: sticky;
+				top: 0px;
+				background-color: green;
+				border: 2px solid #4CAF50;
+				margin:-100px
+			}
+		</style>
+		
+		<script>
+		
+			function parallax(){
+			
+				var top_bar_height = 150;
+			
+				var parallax_ground = document.getElementById('parallax_ground');
+				var parallax_layer1 = document.getElementById('parallax_layer1');
+				var parallax_layer2 = document.getElementById('parallax_layer2');
+				var parallax_layer3 = document.getElementById('parallax_layer3');
+					
+				parallax_ground.style.top = top_bar_height -(window.pageYOffset/20)+'px';
+				parallax_layer1.style.top = top_bar_height -(window.pageYOffset/10)+'px';
+				parallax_layer2.style.top = top_bar_height -(window.pageYOffset/5)+'px';
+				parallax_layer3.style.top = top_bar_height -(window.pageYOffset/2)+'px';
+					
+		
+			}
+		
+			// add an event listener
+			window.addEventListener("scroll", parallax);
+		
+		</script>
+	</head>
+	<body>
+		<div id="title_logo">
+			<img src="LogicielLogo.png" height=150 width=150 />
+		<div>
+		<div id="parallax_ground"></div>
+		<div id="parallax_layer1"></div>
+		<div id="parallax_layer2"></div>
+		<div id="parallax_layer3"></div>
+		<div id="menu_placer>
+			<div id="sticky">menu toolbar</div>
+		</div>
+
+		<div id="content_mobile">
+			<table border=0 cellpadding=0 cellspacing=0 >
+				<tr>
+					<td bgcolor="white" align="center">
+						<img src="Cockpit_Tablet.jpg" style="height:110px; width:110px;">
+					</td>
+					<td bgcolor="white">
+						<p>Integrated Software Development</p>
+						<p>Cross platform development using Xamarin to deploy to Android, iOS, Web & Desktop. Using open-source softweare to integrate disparate data sources in to consolidated displays and interfaces.</p>
+					</td>
+				</tr>
+			</table>
+		</div>
+		<div id="content_unique">
+			<table border=0 cellpadding=0 cellspacing=0 >
+				<tr>
+					<td bgcolor="white">
+						<p>Unique Viewpoints</p>
+						<p>Take advantage of new technologies to provide invigorating views on your data that was previously thought impossible.</p>
+						<p>Use Virtual Reality to step in to the world of your money, and see how it looks from the inside.</p>
+					</td>
+					<td bgcolor="white">
+						<img src="Cockpit_iPad.jpg" style="height:110px; width:110px;">
+					</td>
+				</tr>
+			</table>
+		</div>
+		<div id="content_reality">
+			<table border=0 cellpadding=0 cellspacing=0 >
+				<tr>
+					<td bgcolor="white">
+						<img src="Cockpit_iPad.jpg" style="height:110px; width:110px;">
+					</td>
+					<td bgcolor="white">
+						<p>Centralised data sourcing</p>
+						<p>Using open-communication standards, use data from the core platform to provide real-time feeds to multiple other platforms.</p>
+					</td>
+				</tr>
+			</table>
+		</div>
+		<div id="content_clients">
+			<table border=0 cellpadding=0 cellspacing=0 >
+				<tr>
+					<td bgcolor="white">
+						<p>Discretion</p>
+						<p>Cross platform development using Xamarin to deploy to Android, iOS, Web & Desktop. Using open-source softweare to integrate disparate data sources in to consolidated displays and interfaces.</p>
+					</td>
+					<td bgcolor="white">
+						<img src="Cockpit_iPad.jpg" style="height:110px; width:110px;">
+					</td>
+				</tr>
+			</table>
+		</div>
+		<div id="content_layer2">
+			Contact Me: @ test.com
+		</div>
+	</body>
+</html>

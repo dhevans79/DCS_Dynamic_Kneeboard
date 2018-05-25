@@ -103,7 +103,7 @@
     <linearGradient
        id="linearGradient4843"
        osb:paint="solid"
-       gradientTransform="matrix(0.00685728,0,0,0.00108835,-735.05634,-64.616889)">
+       gradientTransform="matrix(0.00685728,0,0,0.00108835,-196.81825,29.121206)">
       <stop
          style="stop-color:#3994ef;stop-opacity:1;"
          offset="0"
@@ -202,16 +202,6 @@
        y2="14.415352" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4843"
-       id="linearGradient7457"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-9.1666666e-6,8.5357877e-6)"
-       x1="-499.63953"
-       y1="14.415352"
-       x2="-437.6795"
-       y2="14.415352" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4869"
        id="linearGradient7459"
        gradientUnits="userSpaceOnUse"
@@ -230,16 +220,6 @@
        y1="6.3913383"
        x2="-511.3829"
        y2="6.3913383" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4843"
-       id="linearGradient7465"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-9.1666666e-6,47.095865)"
-       x1="-499.63953"
-       y1="14.415352"
-       x2="-437.6795"
-       y2="14.415352" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4869"
@@ -262,16 +242,6 @@
        y2="6.3913383" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4843"
-       id="linearGradient7473"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-9.1666666e-6,98.954215)"
-       x1="-499.63953"
-       y1="14.415352"
-       x2="-437.6795"
-       y2="14.415352" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4869"
        id="linearGradient7475"
        gradientUnits="userSpaceOnUse"
@@ -290,16 +260,6 @@
        y1="6.3913383"
        x2="-511.3829"
        y2="6.3913383" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4843"
-       id="linearGradient7481"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-9.1666666e-6,151.8712)"
-       x1="-499.63953"
-       y1="14.415352"
-       x2="-437.6795"
-       y2="14.415352" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath4737-9">
@@ -311,16 +271,6 @@
          x="-263.73187"
          y="319.9852" />
     </clipPath>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6830"
-       id="linearGradient7564"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(7.4835523,-302.54911)"
-       x1="-362.65457"
-       y1="217.78268"
-       x2="-332.35669"
-       y2="217.78268" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7592"
@@ -339,6 +289,75 @@
        y1="-3.5116382"
        x2="-506.99823"
        y2="-3.5116382" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7592"
+       id="linearGradient4724"
+       gradientUnits="userSpaceOnUse"
+       x1="-516.60039"
+       y1="-3.5116382"
+       x2="-506.99824"
+       y2="-3.5116382" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4843"
+       id="linearGradient4728"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(538.23809,245.6093)"
+       x1="-499.63953"
+       y1="14.415352"
+       x2="-437.6795"
+       y2="14.415352" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4843"
+       id="linearGradient4732"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(538.23809,192.69231)"
+       x1="-499.63953"
+       y1="14.415352"
+       x2="-437.6795"
+       y2="14.415352" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4843"
+       id="linearGradient4736"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(538.23809,140.83396)"
+       x1="-499.63953"
+       y1="14.415352"
+       x2="-437.6795"
+       y2="14.415352" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4843"
+       id="linearGradient4740"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(538.23809,93.738104)"
+       x1="-499.63953"
+       y1="14.415352"
+       x2="-437.6795"
+       y2="14.415352" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6830"
+       id="linearGradient4744"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(545.72165,-208.81101)"
+       x1="-362.65457"
+       y1="217.78268"
+       x2="-332.35669"
+       y2="217.78268" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4857"
+       id="linearGradient7459-5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.24527358,0,0,0.24527358,-408.33259,-248.58333)"
+       x1="-521.74103"
+       y1="6.3913383"
+       x2="-511.3829"
+       y2="6.3913383" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -347,11 +366,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-1839.0351"
-     inkscape:cy="422.84588"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-345.10167"
+     inkscape:cy="800.49669"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="g4895"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -671,7 +690,7 @@
      inkscape:label="Icons"
      style="display:inline">
     <g
-       transform="translate(6.2841516,148.93466)"
+       transform="translate(-78.382515,151.95847)"
        id="g4663">
       <rect
          transform="matrix(0.95390727,-0.30010153,0.44732409,0.89437193,0,0)"
@@ -772,7 +791,7 @@
     </g>
     <g
        id="g4718"
-       transform="translate(13.087722,140.61919)">
+       transform="translate(-71.578945,143.643)">
       <path
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
@@ -816,15 +835,14 @@
   <g
      inkscape:groupmode="layer"
      id="layer8"
-     inkscape:label="Android Layout"
-     sodipodi:insensitive="true">
+     inkscape:label="Android Layout">
     <rect
        style="display:inline;fill:#176bb6;fill-opacity:1;stroke:none;stroke-width:0.80046165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect6913"
        width="211.66667"
        height="12.12479"
-       x="-539.5708"
-       y="-90.333595" />
+       x="-1.3327059"
+       y="3.4045" />
     <image
        sodipodi:absref="C:\Users\dheva\Source\Repos\DCS_Dynamic_Kneeboard\Resources\Screenshot_20180520-213359_Evernote.jpg"
        xlink:href="Screenshot_20180520-213359_Evernote.jpg"
@@ -836,18 +854,18 @@
        height="435.09262"
        width="211.66667"
        clip-path="url(#clipPath4737-9)"
-       transform="matrix(0.98989848,0,0,1,-277.74267,-0.29685083)" />
+       transform="matrix(0.98989848,0,0,1,260.49542,93.441244)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:6.61458349px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:url(#linearGradient7564);fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-356.00302"
-       y="-80.919121"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:6.61458349px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:url(#linearGradient4744);fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="182.23508"
+       y="12.818974"
        id="text6917"><tspan
          sodipodi:role="line"
          id="tspan6915"
-         x="-356.00302"
-         y="-80.919121"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient7564);fill-opacity:1;stroke-width:0.26458332">22:28</tspan></text>
+         x="182.23508"
+         y="12.818974"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient4744);fill-opacity:1;stroke-width:0.26458332">22:28</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -859,19 +877,19 @@
        id="rect6911-4-8"
        width="211.66667"
        height="19.579195"
-       x="-539.48541"
-       y="-49.386665" />
+       x="-1.2473177"
+       y="44.351429" />
     <rect
        style="display:inline;fill:url(#linearGradient4843);fill-opacity:0.70531401;stroke:none;stroke-width:0.53947753;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect6911-4"
        width="211.66667"
        height="29.104166"
-       x="-539.48541"
-       y="-78.490829" />
+       x="-1.2473177"
+       y="15.247266" />
     <g
        style="display:inline"
        id="g4680"
-       transform="translate(-275.82759,9.5357877e-6)">
+       transform="translate(262.4105,93.738105)">
       <path
          inkscape:connector-curvature="0"
          id="path4633"
@@ -891,7 +909,7 @@
     <g
        style="display:inline"
        id="g4708"
-       transform="translate(-274.75307,9.5357877e-6)">
+       transform="translate(263.48502,93.738105)">
       <circle
          r="1.0394346"
          cy="-66.896576"
@@ -914,7 +932,7 @@
     <g
        style="display:inline"
        id="g4723"
-       transform="translate(-230.0968,-0.22677846)">
+       transform="translate(288.89788,41.12649)">
       <circle
          r="5.3453903"
          cy="-63.813862"
@@ -936,7 +954,7 @@
     <g
        style="display:inline"
        id="g4733"
-       transform="translate(-439.92564,24.062647)">
+       transform="translate(98.312455,117.80074)">
       <circle
          r="3.2072344"
          cy="-64.345245"
@@ -952,39 +970,39 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-500.32855"
-       y="-11.450516"
+       x="37.909542"
+       y="82.287582"
        id="text4820"><tspan
          sodipodi:role="line"
          id="tspan4818"
-         x="-500.32855"
-         y="-11.450516"
+         x="37.909542"
+         y="82.287582"
          style="stroke-width:0.26458332">Mirage 2000C Free Flight</tspan><tspan
          sodipodi:role="line"
-         x="-500.32855"
-         y="-4.8359318"
+         x="37.909542"
+         y="88.902161"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
          id="tspan4822"><tspan
    style="fill:#3994ef;fill-opacity:1;stroke-width:0.26458332"
    id="tspan4825">dhevans79@20/05/2018</tspan> Basic free flight kneepad for</tspan><tspan
          sodipodi:role="line"
-         x="-500.32855"
-         y="3.1977439"
+         x="37.909542"
+         y="96.935837"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
          id="tspan4833">Cold Start, Air Charts &amp; Comms, CCIP/CCRP setup.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:6.61458349px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:url(#linearGradient7457);fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-500.32855"
-       y="16.367004"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:6.61458349px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:url(#linearGradient4740);fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="37.909542"
+       y="110.1051"
        id="text4839"><tspan
          sodipodi:role="line"
          id="tspan4837"
-         x="-500.32855"
-         y="16.367004"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient7457);fill-opacity:1;stroke-width:0.26458332">M2KC, Free Flight</tspan></text>
+         x="37.909542"
+         y="110.1051"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient4740);fill-opacity:1;stroke-width:0.26458332">M2KC, Free Flight</tspan></text>
     <g
-       transform="translate(8.3333339e-7,9.5357877e-6)"
+       transform="translate(538.2381,93.738105)"
        style="display:inline"
        id="g4895">
       <g
@@ -1105,50 +1123,56 @@
            x="-513.44287"
            id="tspan4873"
            sodipodi:role="line">5</tspan></text>
+      <circle
+         r="4.4331665"
+         cy="-153.8102"
+         cx="-461.26447"
+         id="path4847-6"
+         style="display:inline;fill:none;fill-opacity:1;stroke:url(#linearGradient7459-5);stroke-width:0.73582077;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -531.86636,22.246936 h 196.71037"
+       d="M 6.371735,115.98503 H 203.0821"
        id="path4877"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-500.32855"
-       y="35.645325"
+       x="37.909542"
+       y="129.38342"
        id="text4820-5"><tspan
          sodipodi:role="line"
          id="tspan4818-5"
-         x="-500.32855"
-         y="35.645325"
+         x="37.909542"
+         y="129.38342"
          style="stroke-width:0.26458332">A10-C Free Flight</tspan><tspan
          sodipodi:role="line"
-         x="-500.32855"
-         y="42.259907"
+         x="37.909542"
+         y="135.998"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
          id="tspan4822-9"><tspan
    style="fill:#3994ef;fill-opacity:1;stroke-width:0.26458332"
    id="tspan4825-2">dhevans79@20/05/2018</tspan> Basic free flight kneepad for</tspan><tspan
          sodipodi:role="line"
-         x="-500.32855"
-         y="50.293583"
+         x="37.909542"
+         y="144.03168"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
          id="tspan4833-0">Cold Start, Air Charts &amp; Comms, CCIP/CCRP setup.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:6.61458349px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:url(#linearGradient7465);fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-500.32855"
-       y="63.462883"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:6.61458349px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:url(#linearGradient4736);fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="37.909542"
+       y="157.20097"
        id="text4839-5"><tspan
          sodipodi:role="line"
          id="tspan4837-6"
-         x="-500.32855"
-         y="63.462883"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient7465);fill-opacity:1;stroke-width:0.26458332">M2KC, Free Flight</tspan></text>
+         x="37.909542"
+         y="157.20097"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient4736);fill-opacity:1;stroke-width:0.26458332">M2KC, Free Flight</tspan></text>
     <g
        style="display:inline"
        id="g6802"
-       transform="translate(8.3333339e-7,103.70058)">
+       transform="translate(538.2381,197.43868)">
       <image
          width="17.019291"
          height="17.019291"
@@ -1181,45 +1205,45 @@
     </g>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M -531.86637,71.459475 H -335.156"
+       d="M 6.371725,165.19757 H 203.08209"
        id="path4877-0"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-500.32855"
-       y="87.5037"
+       x="37.909542"
+       y="181.24179"
        id="text4820-5-1"><tspan
          sodipodi:role="line"
          id="tspan4818-5-4"
-         x="-500.32855"
-         y="87.5037"
+         x="37.909542"
+         y="181.24179"
          style="stroke-width:0.26458332">F-5E Op Clay Pidgeon</tspan><tspan
          sodipodi:role="line"
-         x="-500.32855"
-         y="94.118286"
+         x="37.909542"
+         y="187.85638"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
          id="tspan4833-0-0"><tspan
    style="fill:#3994ef;fill-opacity:1;stroke-width:0.26458332"
    id="tspan4825-2-8">RAFAirUK@14/02/2018</tspan> Flight Plan, Cold Start, Comms </tspan><tspan
          sodipodi:role="line"
-         x="-500.32855"
-         y="102.15196"
+         x="37.909542"
+         y="195.89006"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
          id="tspan6768">Mission Briefing, Air Charts &amp; Nav Data.  Gun Pip...</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:6.61458349px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:url(#linearGradient7473);fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-500.32855"
-       y="115.32121"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:6.61458349px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:url(#linearGradient4732);fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="37.909542"
+       y="209.05931"
        id="text4839-5-5"><tspan
          sodipodi:role="line"
          id="tspan4837-6-9"
-         x="-500.32855"
-         y="115.32121"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient7473);fill-opacity:1;stroke-width:0.26458332">F5, Op, Clay Pidgeon, RAFAirUK</tspan></text>
+         x="37.909542"
+         y="209.05931"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient4732);fill-opacity:1;stroke-width:0.26458332">F5, Op, Clay Pidgeon, RAFAirUK</tspan></text>
     <g
-       transform="translate(1.0690708,49.776625)"
+       transform="translate(539.30717,143.51472)"
        style="display:inline"
        id="g4895-6-5">
       <g
@@ -1342,45 +1366,46 @@
     </g>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M -531.86637,123.31795 H -335.156"
+       d="M 6.371725,217.05605 H 203.08209"
        id="path4877-0-3"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-500.32855"
-       y="140.42015"
+       x="37.909542"
+       y="234.15825"
        id="text4820-5-1-2"><tspan
          sodipodi:role="line"
          id="tspan4818-5-4-7"
-         x="-500.32855"
-         y="140.42015"
+         x="37.909542"
+         y="234.15825"
          style="stroke-width:0.26458332">AV-8A Tutorial Handbook</tspan><tspan
          sodipodi:role="line"
-         x="-500.32855"
-         y="147.03473"
+         x="37.909542"
+         y="240.77283"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
          id="tspan4833-0-0-0"><tspan
    style="fill:#3994ef;fill-opacity:1;stroke-width:0.26458332"
    id="tspan4825-2-8-8">RAZBAM@31/12/2022</tspan> Notes to suppliment training </tspan><tspan
          sodipodi:role="line"
-         x="-500.32855"
-         y="155.06841"
+         x="37.909542"
+         y="248.8065"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
          id="tspan6776">missions.  Comms, HUD, Water, STORES, CCIP/...</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:6.61458349px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:url(#linearGradient7481);fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-500.32855"
-       y="168.23735"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:6.61458349px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:url(#linearGradient4728);fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="37.909542"
+       y="261.97543"
        id="text4839-5-5-5"><tspan
          sodipodi:role="line"
          id="tspan4837-6-9-1"
-         x="-500.32855"
-         y="168.23735"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient7481);fill-opacity:1;stroke-width:0.26458332">M2KC, Free Flight</tspan></text>
+         x="37.909542"
+         y="261.97543"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient4728);fill-opacity:1;stroke-width:0.26458332">M2KC, Free Flight</tspan></text>
     <g
-       id="g7586">
+       id="g7586"
+       transform="translate(538.23809,93.738095)">
       <image
          width="17.4625"
          height="23.283333"
@@ -1402,7 +1427,7 @@
            r="4.4331665" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:6.61458302px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:url(#linearGradient7594);stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:6.61458302px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:url(#linearGradient4724);stroke-width:0.26458332"
            x="-514.50122"
            y="-1.2988162"
            id="text4875-6-6-8"><tspan
@@ -1410,18 +1435,18 @@
              x="-514.50122"
              id="tspan6784"
              sodipodi:role="line"
-             style="stroke:url(#linearGradient7594)">21</tspan></text>
+             style="stroke:url(#linearGradient4724)">21</tspan></text>
       </g>
     </g>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M -531.86637,176.23495 H -335.156"
+       d="M 6.371725,269.97305 H 203.08209"
        id="path4877-0-3-4"
        inkscape:connector-curvature="0" />
     <g
        style="display:inline"
        id="g4765"
-       transform="translate(-213.81563,2.1381562)">
+       transform="translate(324.42246,95.876251)">
       <circle
          r="12.828937"
          cy="293.25824"
